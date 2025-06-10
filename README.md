@@ -1,1 +1,3 @@
 # readme
+
+Start learning !
